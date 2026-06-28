@@ -10,8 +10,8 @@
 <!-- 🔁 Replace the URLs below with your actual links -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0f2027?style=for-the-badge&logoColor=white)](https://your-portfolio-url.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-203a43?style=for-the-badge&logoColor=white)](https://your-resume-url.com)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thadakabalaji0460@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][((https://www.linkedin.com/in/balaji-thadaka/)]
 
 <br/>
 
