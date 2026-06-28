@@ -30,7 +30,7 @@
 name        : Balaji Thadaka
 title       : Full Stack Developer | Computer Science Student
 location    : Hyderabad, India 🇮🇳
-education   : B.Tech — Jawaharlal Nehru University
+education   : B.Tech — Jawaharlal Nehru Technological University, Hyderabad.
 status      : Open to Full Stack Developer roles
 ```
 
@@ -58,30 +58,27 @@ status      : Open to Full Stack Developer roles
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -95,9 +92,8 @@ status      : Open to Full Stack Developer roles
 
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |------------|----------------|---------------|----------|
-| **[Project Name 1]** | Brief description of what the project does and the problem it solves. | React · Node.js · MongoDB | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ThadakaBalaji/project-1) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://your-demo-link.com) |
+| **🧠 Fuzzy Enhanced Kidney Tumor Detection** | An AI-powered medical imaging system that detects kidney tumors from CT scans using fuzzy logic for image enhancement, dual transfer learning networks (DenseNet121 + ResNet101) for feature extraction, and a weighted SVM–Random Forest ensemble classifier. Achieved **99.2% accuracy** on high-quality images and **98.5%** on noisy images. | Python · Django · TensorFlow · PyTorch · OpenCV · Scikit-learn · PostgreSQL · Docker | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ThadakaBalaji/kidney-tumor-detection) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://your-demo-link.com) |
 | **[Project Name 2]** | Brief description of what the project does and the problem it solves. | Django · PostgreSQL · AWS | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ThadakaBalaji/project-2) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://your-demo-link.com) |
-| **[Project Name 3]** | Brief description of what the project does and the problem it solves. | React · Express · MySQL | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ThadakaBalaji/project-3) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://your-demo-link.com) |
 
 </div>
 
